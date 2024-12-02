@@ -1,0 +1,80 @@
+{
+ "skills": [
+  {
+    "id": "1",
+    "src": "./img/product-chain-1.png",
+    "title": "Front-End Development",
+    "description": "Skilled in creating responsive UIs with React, HTML, and CSS. Experienced in state management with Redux and modern JavaScript frameworks."
+  },
+  {
+    "id": "2",
+    "src": "./img/tag-1.png",
+    "title": "Back-End Development",
+    "description": "Proficient in building server-side applications with Node.js, Express, and RESTful APIs. Experienced with database integration and secure backends."
+  },
+  {
+    "id": "3",
+    "src": "./img/feather-pen-2.png",
+    "title": "UI/UX Design",
+    "description": "Adept at designing intuitive interfaces and user experiences. Skilled in translating concepts into functional, user-friendly designs."
+  },
+  {
+    "id": "4",
+    "src": "./img/feather-pen-1.png",
+    "title": "Database Management",
+    "description": "Experienced in managing MongoDB and SQL databases. Skilled in schema design, writing queries, and ensuring data efficiency."
+  }
+]
+
+,
+  
+  
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/two.png",
+        "title": "ONLINE EXAM APPLICATION",
+        "description": "Developed a full-stack application where users can take mock tests for government exams (e.g., Railways - Group D). Features include test evaluation, PDF downloads for results, and role-specific test recommendations.",
+        "tech": "React (Full Stack)",
+        "link": "https://github.com/Kalyankumarpulapaka/HelloExams"
+      },
+      {
+        "id": "2",
+        "src": "./img/three.png",
+        "title": "TASTEBUDS - FOOD DELIVERY APP",
+        "description": "Built a food delivery app with an integrated payment gateway for seamless order processing. The app allows users to browse menus, place orders, and track deliveries in real time.",
+        "tech": "React, Node.js, Express, MongoDB",
+        "link": "https://github.com/Kalyankumarpulapaka/Food_delivery_app"
+      },
+      {
+        "id": "3",
+        "src": "./img/one.png",
+        "title": "EMBROIDERY DESIGN ORDERING SYSTEM",
+        "description": "A platform for ordering custom embroidery designs, integrated with WhatsApp for direct order communication.",
+        "tech": "React, Node.js, Express, MongoDB",
+        "link": "https://github.com/Kalyankumarpulapaka/Shop"
+      },
+      {
+        "id": "4",
+        "src": "./img/four.png",
+        "title": "META CLONE",
+        "description": "Developed a real-time clone of Meta applications, featuring live updates and a design closely mirroring the original platform.",
+        "tech": "React, HTML, CSS, JavaScript",
+        "link": "https://github.com/Kalyankumarpulapaka/MetaReact"
+      },
+
+      {
+        "id": "5",
+        "src": "./img/six.jpg",
+        "title": "Job vista",
+        "description": "Job Vista is an intuitive and user-friendly job hunt application built to help job seekers find and apply for their ideal roles. The app allows users to browse through job listings, filter results based on their preferences, and submit applications directly through the platform. ",
+        "tech": "React, HTML, CSS, JavaScript",
+        "link": "https://github.com/Kalyankumarpulapaka/newfront"
+      }
+    ]
+  
+  
+  
+  
+ 
+}
