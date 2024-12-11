@@ -31,12 +31,45 @@
   
     "portfolio": [
       {
+        "id": "6",
+        "src": "./img/six1.png",
+        "title": "Quora Clone",
+        "description": "This is and react application, Used Redux for global state management. Using React-Router-Dom different pages are served. Login page, Home page, Add question popup page, Question details page and Unanwered Questions page are the main pages of the application",
+        "tech": "Reactjs, javascript, Redux, Firebase ,GoogleAuth",
+        "link": "https://github.com/Kalyankumarpulapaka/Quora-Clone",
+        "link1": "https://quora-app.netlify.app/"
+
+      },
+      {
+        "id": "7",
+        "src": "./img/seven.png",
+        "title": "Movie streaming app",
+        "description": "Fullstack open source movie application made with MongoDB, Express, React & Node.js (MERN). Features include user registration and login, authentication using JWT tokens, adding and deleting favorites, leaving and deleting reviews, password update, live search, trailer watch on YouTube, 404 page, skeleton loading effect, dark mode, responsive design, and more.",
+        "tech": "React, Node.js, Express.js, MongoDB, JWT, Redux, Material UI, Axios, TMDB API",
+        "link": "https://github.com/Kalyankumarpulapaka/MovieFlix",
+        "link1": "https://kalyankumarmovieflix.netlify.app/"
+      },
+
+      {
+        "id": "8",
+        "src": "./img/eight.png",
+        "title": "Student management app",
+        "description": "The Student Management System is a full-stack application designed to streamline the process of managing student records. It allows users to perform CRUD (Create, Read, Update, Delete) operations for student data. ",
+        "tech": "React, Node.js, Express.js, MongoDB,  Redux, Axios",
+        "link": "https://github.com/Kalyankumarpulapaka/Student_management-",
+        "link1": "https://studentmanagement007.netlify.app/"
+      },
+      
+
+      {
         "id": "1",
         "src": "./img/two.png",
         "title": "ONLINE EXAM APPLICATION",
         "description": "Developed a full-stack application where users can take mock tests for government exams (e.g., Railways - Group D). Features include test evaluation, PDF downloads for results, and role-specific test recommendations.",
-        "tech": "React (Full Stack)",
-        "link": "https://github.com/Kalyankumarpulapaka/HelloExams"
+        "tech": "Reactjs, javascript, RestApi",
+        "link": "https://github.com/Kalyankumarpulapaka/HelloExams",
+        "link1": "https://helloexams1.netlify.app/"
+
       },
       {
         "id": "2",
@@ -44,15 +77,19 @@
         "title": "TASTEBUDS - FOOD DELIVERY APP",
         "description": "Built a food delivery app with an integrated payment gateway for seamless order processing. The app allows users to browse menus, place orders, and track deliveries in real time.",
         "tech": "React, Node.js, Express, MongoDB",
-        "link": "https://github.com/Kalyankumarpulapaka/Food_delivery_app"
+        "link": "https://github.com/Kalyankumarpulapaka/Food_delivery_app",
+        "link1": "https://tubular-kashata-bf4ca8.netlify.app/"
+
       },
       {
         "id": "3",
         "src": "./img/one.png",
         "title": "EMBROIDERY DESIGN ORDERING SYSTEM",
         "description": "A platform for ordering custom embroidery designs, integrated with WhatsApp for direct order communication.",
-        "tech": "React, Node.js, Express, MongoDB",
-        "link": "https://github.com/Kalyankumarpulapaka/Shop"
+        "tech": "React, Node.js, Github pages ",
+        "link": "https://github.com/Kalyankumarpulapaka/Shop",
+        "link1": "https://womenchoice.netlify.app/"
+
       },
       {
         "id": "4",
@@ -60,7 +97,9 @@
         "title": "META CLONE",
         "description": "Developed a real-time clone of Meta applications, featuring live updates and a design closely mirroring the original platform.",
         "tech": "React, HTML, CSS, JavaScript",
-        "link": "https://github.com/Kalyankumarpulapaka/MetaReact"
+        "link": "https://github.com/Kalyankumarpulapaka/MetaReact",
+        "link1": "https://comforting-dieffenbachia-395f54.netlify.app/"
+
       },
 
       {
@@ -69,8 +108,11 @@
         "title": "Job vista",
         "description": "Job Vista is an intuitive and user-friendly job hunt application built to help job seekers find and apply for their ideal roles. The app allows users to browse through job listings, filter results based on their preferences, and submit applications directly through the platform. ",
         "tech": "React, HTML, CSS, JavaScript",
-        "link": "https://github.com/Kalyankumarpulapaka/newfront"
+        "link": "https://github.com/Kalyankumarpulapaka/newfront",
+        "link1": "https://jobvista1.netlify.app/"
+
       }
+
     ]
   
   

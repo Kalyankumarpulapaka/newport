@@ -40,7 +40,17 @@ export default function MyPortfolio() {
                 rel="noopener noreferrer"
                 className="portfolio-github-link"
               >
-                View on GitHub
+                View on GitHub 
+               
+              </a>
+
+              <a
+                href={item.link1}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="portfolio-github-link1"
+              >
+                View Live
               </a>
             </div>
           </div>

@@ -84,7 +84,7 @@
   }
   
   .portfolio-title {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #333;
     margin-bottom: 1rem;
     font-weight: 500;
@@ -92,15 +92,15 @@
   
   .portfolio-description {
     color: #6c757d;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     line-height: 1.6;
     margin-bottom: 1.25rem;
   }
   
   .portfolio-tech {
-    color: #495057;
-    font-weight: bold;
-    font-size: 1.1rem;
+    color: #24394f;
+    line-height: 1.6;
+    font-size: 1rem;
   }
   
   /* GitHub Link */
@@ -115,6 +115,21 @@
   }
   
   .portfolio-github-link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+
+  .portfolio-github-link1 {
+    display:block;
+    margin-top: 15px;
+    font-size: 1.15rem;
+    color: #5bcb06;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .portfolio-github-link1:hover {
     text-decoration: underline;
     color: #0056b3;
   }
