@@ -1,3 +1,4 @@
+import React from 'react'; // Ensure React is in scope for JSX
 import data from "../../data/index.json";
 
 export default function MySkills() {

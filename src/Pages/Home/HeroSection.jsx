@@ -9,10 +9,8 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-  Experienced Web Developer with <strong>2 years of expertise</strong> in creating dynamic and responsive web applications. Specializing in frontend development, with a strong foundation in cloud technologies and Agile methodologies. Committed to delivering innovative solutions and continuously enhancing user experiences.
-</p>
-
-
+            Experienced Web Developer with <strong>2 years of expertise</strong> in creating dynamic and responsive web applications. Specializing in frontend development, with a strong foundation in cloud technologies and Agile methodologies. Committed to delivering innovative solutions and continuously enhancing user experiences.
+          </p>
         </div>
         <div className="hero--section--buttons">
           {/* Get In Touch Button */}
@@ -33,7 +31,7 @@ export default function HeroSection() {
         </div>
       </div>
       <div className="hero--section--img">
-        <img src="./img/pic.png" className="hero--image" alt="Hero Section" />
+        <img src="/img/pic.png" className="hero--image" alt="Kalyan Kumar, MERN Stack Developer" />
       </div>
     </section>
   );

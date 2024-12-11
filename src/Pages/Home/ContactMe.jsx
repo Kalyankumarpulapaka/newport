@@ -74,13 +74,14 @@ export default function ContactMe() {
           <label htmlFor="phone-number" className="contact--label">
             <span className="text-md">Phone Number</span>
             <input
-              type="number"
+              type="tel"
               className="contact--input text-md"
               name="phoneNumber"
               id="phone-number"
               value={formData.phoneNumber}
               onChange={handleInputChange}
               required
+              pattern="^[0-9]{10}$"  // Example for a 10-digit phone number
             />
           </label>
         </div>

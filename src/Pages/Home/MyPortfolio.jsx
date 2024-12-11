@@ -1,3 +1,4 @@
+import React from 'react'; // Ensure React is in scope for JSX
 import data from "../../data/index.json";
 import "./MyPortfolio.css"; // Assume CSS is in the same folder for styling
 
