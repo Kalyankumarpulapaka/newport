@@ -161,6 +161,7 @@ h2 {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 1000;
 }
 .navbar--items > ul {
   list-style: none;
