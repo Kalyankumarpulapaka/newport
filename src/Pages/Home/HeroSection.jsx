@@ -22,8 +22,8 @@ export default function HeroSection() {
           </a>
           {/* Download CV Button */}
           <a
-            href="https://drive.google.com/uc?export=download&id=1gieQMyStsA0iY8_5RYViLbuSaFZQlJR1"
-            className="btn btn-secondary"
+         href="https://drive.google.com/uc?export=download&id=1bODDw_6-5EQZ50I0jQW44iXJu9pfKzOC"
+       className="btn btn-secondary"
             download
           >
             <i className="fa fa-download" aria-hidden="true"></i> Download CV
